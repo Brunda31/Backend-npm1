@@ -3,6 +3,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brunda",
 	"description" : "Testing the description part - This tells what the project is about",
+	"keywords" : ["example1", "example2","freecodecamp"],
+	"license" : "MIT",
+	"moment" : "^2.10.2" 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
