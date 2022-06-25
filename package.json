@@ -4,10 +4,10 @@
 	"author": "Brunda",
 	"description" : "Testing the description part - This tells what the project is about",
 	"keywords" : ["example1", "example2","freecodecamp"],
-	"license" : "MIT",
-	"moment" : "^2.10.2" 
+	"license" : "MIT" 
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+	        "moment" : "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
